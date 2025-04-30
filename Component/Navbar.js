@@ -56,7 +56,7 @@ const Navbar = () => {
       ]
     },
     { name: 'About Us', icon: faShieldAlt, href: '/about' },
-    { name: 'Contact', icon: faPhone, href: '/contact' }
+    { name: 'Contact', icon: faPhone, href: '/Contact' }
   ];
 
   return (
