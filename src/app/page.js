@@ -10,7 +10,7 @@ const page = () => {
   return (
     <>
      
-     <Navbar/>
+     <Navbar/> 
      <Slider/>
      <Contact/>
       
