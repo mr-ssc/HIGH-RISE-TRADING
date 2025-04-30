@@ -45,7 +45,7 @@ const Navbar = () => {
       name: 'Products', 
       icon: faIndustry,
       subItems: [
-        { name: 'Mechanical Products', icon: faTools, href: '/products/mechanical' },
+        { name: 'Mechanical Products', icon: faTools, href: '/products/Mechanical' },
         { name: 'Electrical Products', icon: faBolt, href: '/products/electrical' },
         { name: 'Oil and Gas Products', icon: faOilCan, href: '/products/oil-gas' },
         { name: 'Tubefit & Valve Products', icon: faTools, href: '/products/tubefit-valve' },

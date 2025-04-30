@@ -8,9 +8,9 @@ import '../Component/Slider.css'; // Make sure the path is correct
 const Slider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = [
-    { id: 1, src: "/Img/slide-1.png", alt: "Slider Image 1", link: "/Contact" },
-    { id: 2, src: "/Img/slide-2.png", alt: "Slider Image 2", link: "/Contact" },
-    { id: 3, src: "/Img/slide-3.png", alt: "Slider Image 3", link: "/Contact" },
+    { id: 1, src: "/Img/slide-1.png", alt: "Slider Image 1", link: "/Mechanical" },
+    { id: 2, src: "/Img/slide-2.png", alt: "Slider Image 2", link: "/Mechanical" },
+    { id: 3, src: "/Img/slide-3.png", alt: "Slider Image 3", link: "/Mechanical" },
   ];
 
   const nextSlide = () => {
